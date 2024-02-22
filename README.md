@@ -1,6 +1,6 @@
 # Spring-Powered Rectangular Motion: Dynamic Rectangular Motion Simulation
 
-Explore the dynamic motion of a rectangular object influenced by various physical forces in this simulation project. Witness the interplay of Hooke's Law, gravity, rotation, and geometric algebra to create captivating visualizations of motion dynamics. <a href="https://oklein1.github.io/dynamic-rectangular-motion-simulation/">Click here to see.</a>
+Explore the dynamic motion of a rectangular object influenced by various physical forces in this simulation project. Witness the interplay of Hooke's Law, gravity, rotation, and geometric algebra to create captivating visualizations of motion dynamics. <a href="https://oklein1.github.io/Spring-Powered-Rectangular-Motion/">Click here to see.</a>
 
 ## Features
 
