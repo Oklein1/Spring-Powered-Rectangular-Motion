@@ -1,0 +1,13 @@
+{
+  "name": "dynamic-rectangular-motion-simulation",
+  "version": "1.0.0",
+  "type":"module",
+  "description": "Discover the intricacies of dynamic rectangular motion in this simulation project. Explore the fundamental principles of Hooke's Law, gravity, rotation, and geometric algebra as they interact to create compelling visualizations of motion dynamics",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
